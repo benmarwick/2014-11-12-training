@@ -1,4 +1,4 @@
-2014-11-12-training
+[Software Carpentry Instructor Training Workshop at UW-Seattle (12-14 Nov 2014)](https://benmarwick.github.io/2014-11-12-training/)
 ===================
 
 This is the repository for the website for a ['Teaching Software Carpentry'](http://teaching.software-carpentry.org/) workshop to be held at UW-Seattle on November 12-14, 2014. The workshop will train people to be instructors of [Software Carpentry](http://software-carpentry.org/) [bootcamps](http://software-carpentry.org/bootcamps/index.html). 
